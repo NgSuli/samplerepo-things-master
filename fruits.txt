@@ -5,3 +5,5 @@ mangoes
 orange
 kiwi
 papaya
+durian
+guava
